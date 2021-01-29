@@ -28,4 +28,4 @@ Thanks to Spectre for the permissionto use his addons:
 
 # License
 
-BRA Addons is licensed under the GNU General Public License (GPLv3).
+BRA Addons is licensed under the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons/blob/main/LICENSE).
