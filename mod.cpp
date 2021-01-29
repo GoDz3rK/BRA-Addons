@@ -1,0 +1,14 @@
+name = "BRA Addons";
+picture = "\BRA_Main\data\picture.paa";
+author = "Katsuki";
+description = "BRA Addons";
+logo = "\BRA_Main\data\logo.paa";
+logoSmall = "\BRA_Main\data\logoSmall.paa";
+logoOver = "\BRA_Main\data\logoOver.paa";
+tooltip = "BRA Addons";
+tooltipOwned = "BRA Addons";
+actionName = "Facebook page";
+action = "https://www.facebook.com/BrigataRicognitoriAlpini";
+overview = "BRA Addons";
+overviewPicture = "\BRA_Main\data\logo.paa";
+overviewText = "BRA Addons";
