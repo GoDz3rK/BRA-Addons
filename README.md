@@ -28,4 +28,4 @@ Thanks to Vestarr for the permission to use his addons:
 
 # License
 
-BRA Addons is licensed under the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons/blob/main/LICENSE).
+We will not upload the addons and keys folder on git to avoid unauthorized redistribution. All the data are on the Steam Workshop regularized by the Steam Workshop Agreements and the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons/blob/main/LICENSE).
