@@ -20,7 +20,11 @@ Thanks to Radium for the permision to use his addons:
 - [Zeus Enhanced](https://steamcommunity.com/workshop/filedetails/?id=1779063631)
 
 Thanks to Spectre for the permision to use his addons:
-- [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662&searchtext=enhanced+movement)
+- [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
+
+Thanks to Spectre for the permissionto use his addons:
+
+- [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2260572637)
 
 # License
 
