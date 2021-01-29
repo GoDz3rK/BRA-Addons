@@ -22,9 +22,9 @@ Thanks to Radium for the permision to use his addons:
 Thanks to Spectre for the permision to use his addons:
 - [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
 
-Thanks to Spectre for the permissionto use his addons:
+Thanks to Vestarr for the permission to use his addons:
 
-- [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2260572637)
+- [BettIR](https://steamcommunity.com/sharedfiles/filedetails/?id=2260572637)
 
 # License
 
