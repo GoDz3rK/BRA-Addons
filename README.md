@@ -26,6 +26,10 @@ Thanks to Vestarr for the permission to use his addons:
 
 - [BettIR](https://steamcommunity.com/sharedfiles/filedetails/?id=2260572637)
 
+Thanks to Sceptre for the permission to use his addons:
+
+-[No More Aircraft Bouncing](http://steamcommunity.com/sharedfiles/filedetails/?id=1770265310)
+
 # License
 
 We will not upload the addons and keys folder on git to avoid unauthorized redistribution. All the data are on the Steam Workshop regularized by the Steam Workshop Agreements and the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons/blob/main/LICENSE).
