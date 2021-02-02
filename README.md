@@ -19,16 +19,13 @@ We have the authors permissions to redistribute them for our absolutly NOT COMME
 Thanks to Radium for the permision to use his addons:
 - [Zeus Enhanced](https://steamcommunity.com/workshop/filedetails/?id=1779063631)
 
-Thanks to Spectre for the permision to use his addons:
+Thanks to Sceptre for the permision to use his addons:
 - [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
+- [No More Aircraft Bouncing](http://steamcommunity.com/sharedfiles/filedetails/?id=1770265310)
 
 Thanks to Vestarr for the permission to use his addons:
 
 - [BettIR](https://steamcommunity.com/sharedfiles/filedetails/?id=2260572637)
-
-Thanks to Sceptre for the permission to use his addons:
-
--[No More Aircraft Bouncing](http://steamcommunity.com/sharedfiles/filedetails/?id=1770265310)
 
 # License
 
