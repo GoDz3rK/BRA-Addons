@@ -21,7 +21,6 @@ Thanks to Radium for the permision to use his addons:
 
 Thanks to Sceptre for the permision to use his addons:
 - [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662)
-- [No More Aircraft Bouncing](http://steamcommunity.com/sharedfiles/filedetails/?id=1770265310)
 
 Thanks to Vestarr for the permission to use his addons:
 
